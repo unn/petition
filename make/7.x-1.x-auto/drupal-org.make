@@ -45,6 +45,8 @@ projects[imce][subdir] = contrib
 
 projects[job_scheduler][subdir] = contrib
 
+projects[maintenance200][subdir] = contrib
+
 projects[memcache][subdir] = contrib
 
 projects[metatag][subdir] = contrib
